@@ -1,7 +1,7 @@
 {
-  "name": "mern-server",
+  "name": "cheaper-server",
   "version": "1.0.0",
-  "description": "mern ecomerce server",
+  "description": "cheaper server",
   "main": "index.js",
   "scripts": {
     "start": "node ./src/index.server.js"
